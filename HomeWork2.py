@@ -1,0 +1,1 @@
+print("This was my first SHTEM2023 assignemtn!")
